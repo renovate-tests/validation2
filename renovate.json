@@ -1,4 +1,9 @@
 {
   "dependencyDashboard": true,
-  "hostType": "npm"
+  "hostRules": [{
+    "encrypted": {
+      "hostType": "foo"
+    },
+    "enabled": false
+  }]
 }
