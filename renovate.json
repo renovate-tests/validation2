@@ -1,3 +1,4 @@
 {
+  "hostType": "npm",
   "npmrc": "# nothing"
 }
